@@ -1,0 +1,1202 @@
+{
+    "0_19": {
+        "material": "air"
+    },
+    "0_18": {
+        "material": "grass"
+    },
+    "0_17": {
+        "material": "dirt"
+    },
+    "0_16": {
+        "material": "dirt"
+    },
+    "0_15": {
+        "material": "rock"
+    },
+    "0_14": {
+        "material": "rock"
+    },
+    "0_13": {
+        "material": "rock"
+    },
+    "0_12": {
+        "material": "rock"
+    },
+    "0_11": {
+        "material": "rock"
+    },
+    "0_10": {
+        "material": "rock"
+    },
+    "0_9": {
+        "material": "rock"
+    },
+    "0_8": {
+        "material": "rock"
+    },
+    "0_7": {
+        "material": "rock"
+    },
+    "0_6": {
+        "material": "rock"
+    },
+    "0_5": {
+        "material": "rock"
+    },
+    "0_4": {
+        "material": "rock"
+    },
+    "0_3": {
+        "material": "rock"
+    },
+    "0_2": {
+        "material": "rock"
+    },
+    "0_1": {
+        "material": "rock"
+    },
+    "0_0": {
+        "material": "rock"
+    },
+    "1_19": {
+        "material": "air"
+    },
+    "1_18": {
+        "material": "dirt"
+    },
+    "1_17": {
+        "material": "dirt"
+    },
+    "1_16": {
+        "material": "dirt"
+    },
+    "1_15": {
+        "material": "rock"
+    },
+    "1_14": {
+        "material": "rock"
+    },
+    "1_13": {
+        "material": "rock"
+    },
+    "1_12": {
+        "material": "rock"
+    },
+    "1_11": {
+        "material": "rock"
+    },
+    "1_10": {
+        "material": "rock"
+    },
+    "1_9": {
+        "material": "rock"
+    },
+    "1_8": {
+        "material": "rock"
+    },
+    "1_7": {
+        "material": "rock"
+    },
+    "1_6": {
+        "material": "rock"
+    },
+    "1_5": {
+        "material": "rock"
+    },
+    "1_4": {
+        "material": "rock"
+    },
+    "1_3": {
+        "material": "rock"
+    },
+    "1_2": {
+        "material": "rock"
+    },
+    "1_1": {
+        "material": "rock"
+    },
+    "1_0": {
+        "material": "rock"
+    },
+    "2_19": {
+        "material": "air"
+    },
+    "2_18": {
+        "material": "grass"
+    },
+    "2_17": {
+        "material": "dirt"
+    },
+    "2_16": {
+        "material": "dirt"
+    },
+    "2_15": {
+        "material": "dirt"
+    },
+    "2_14": {
+        "material": "rock"
+    },
+    "2_13": {
+        "material": "rock"
+    },
+    "2_12": {
+        "material": "rock"
+    },
+    "2_11": {
+        "material": "rock"
+    },
+    "2_10": {
+        "material": "rock"
+    },
+    "2_9": {
+        "material": "rock"
+    },
+    "2_8": {
+        "material": "rock"
+    },
+    "2_7": {
+        "material": "rock"
+    },
+    "2_6": {
+        "material": "rock"
+    },
+    "2_5": {
+        "material": "rock"
+    },
+    "2_4": {
+        "material": "rock"
+    },
+    "2_3": {
+        "material": "rock"
+    },
+    "2_2": {
+        "material": "rock"
+    },
+    "2_1": {
+        "material": "rock"
+    },
+    "2_0": {
+        "material": "rock"
+    },
+    "3_19": {
+        "material": "air"
+    },
+    "3_18": {
+        "material": "dirt"
+    },
+    "3_17": {
+        "material": "dirt"
+    },
+    "3_16": {
+        "material": "dirt"
+    },
+    "3_15": {
+        "material": "rock"
+    },
+    "3_14": {
+        "material": "rock"
+    },
+    "3_13": {
+        "material": "rock"
+    },
+    "3_12": {
+        "material": "rock"
+    },
+    "3_11": {
+        "material": "rock"
+    },
+    "3_10": {
+        "material": "rock"
+    },
+    "3_9": {
+        "material": "rock"
+    },
+    "3_8": {
+        "material": "rock"
+    },
+    "3_7": {
+        "material": "rock"
+    },
+    "3_6": {
+        "material": "rock"
+    },
+    "3_5": {
+        "material": "rock"
+    },
+    "3_4": {
+        "material": "rock"
+    },
+    "3_3": {
+        "material": "rock"
+    },
+    "3_2": {
+        "material": "rock"
+    },
+    "3_1": {
+        "material": "rock"
+    },
+    "3_0": {
+        "material": "rock"
+    },
+    "4_19": {
+        "material": "air"
+    },
+    "4_18": {
+        "material": "grass"
+    },
+    "4_17": {
+        "material": "dirt"
+    },
+    "4_16": {
+        "material": "dirt"
+    },
+    "4_15": {
+        "material": "rock"
+    },
+    "4_14": {
+        "material": "rock"
+    },
+    "4_13": {
+        "material": "rock"
+    },
+    "4_12": {
+        "material": "rock"
+    },
+    "4_11": {
+        "material": "rock"
+    },
+    "4_10": {
+        "material": "rock"
+    },
+    "4_9": {
+        "material": "rock"
+    },
+    "4_8": {
+        "material": "rock"
+    },
+    "4_7": {
+        "material": "rock"
+    },
+    "4_6": {
+        "material": "rock"
+    },
+    "4_5": {
+        "material": "rock"
+    },
+    "4_4": {
+        "material": "rock"
+    },
+    "4_3": {
+        "material": "rock"
+    },
+    "4_2": {
+        "material": "rock"
+    },
+    "4_1": {
+        "material": "rock"
+    },
+    "4_0": {
+        "material": "rock"
+    },
+    "5_19": {
+        "material": "air"
+    },
+    "5_18": {
+        "material": "grass"
+    },
+    "5_17": {
+        "material": "dirt"
+    },
+    "5_16": {
+        "material": "dirt"
+    },
+    "5_15": {
+        "material": "rock"
+    },
+    "5_14": {
+        "material": "rock"
+    },
+    "5_13": {
+        "material": "rock"
+    },
+    "5_12": {
+        "material": "rock"
+    },
+    "5_11": {
+        "material": "rock"
+    },
+    "5_10": {
+        "material": "rock"
+    },
+    "5_9": {
+        "material": "rock"
+    },
+    "5_8": {
+        "material": "rock"
+    },
+    "5_7": {
+        "material": "rock"
+    },
+    "5_6": {
+        "material": "rock"
+    },
+    "5_5": {
+        "material": "rock"
+    },
+    "5_4": {
+        "material": "rock"
+    },
+    "5_3": {
+        "material": "rock"
+    },
+    "5_2": {
+        "material": "rock"
+    },
+    "5_1": {
+        "material": "rock"
+    },
+    "5_0": {
+        "material": "rock"
+    },
+    "6_19": {
+        "material": "air"
+    },
+    "6_18": {
+        "material": "air"
+    },
+    "6_17": {
+        "material": "air"
+    },
+    "6_16": {
+        "material": "grass"
+    },
+    "6_15": {
+        "material": "dirt"
+    },
+    "6_14": {
+        "material": "dirt"
+    },
+    "6_13": {
+        "material": "dirt"
+    },
+    "6_12": {
+        "material": "rock"
+    },
+    "6_11": {
+        "material": "rock"
+    },
+    "6_10": {
+        "material": "rock"
+    },
+    "6_9": {
+        "material": "rock"
+    },
+    "6_8": {
+        "material": "rock"
+    },
+    "6_7": {
+        "material": "rock"
+    },
+    "6_6": {
+        "material": "rock"
+    },
+    "6_5": {
+        "material": "rock"
+    },
+    "6_4": {
+        "material": "rock"
+    },
+    "6_3": {
+        "material": "rock"
+    },
+    "6_2": {
+        "material": "rock"
+    },
+    "6_1": {
+        "material": "rock"
+    },
+    "6_0": {
+        "material": "rock"
+    },
+    "7_19": {
+        "material": "air"
+    },
+    "7_18": {
+        "material": "grass"
+    },
+    "7_17": {
+        "material": "dirt"
+    },
+    "7_16": {
+        "material": "dirt"
+    },
+    "7_15": {
+        "material": "dirt"
+    },
+    "7_14": {
+        "material": "dirt"
+    },
+    "7_13": {
+        "material": "rock"
+    },
+    "7_12": {
+        "material": "rock"
+    },
+    "7_11": {
+        "material": "rock"
+    },
+    "7_10": {
+        "material": "rock"
+    },
+    "7_9": {
+        "material": "rock"
+    },
+    "7_8": {
+        "material": "rock"
+    },
+    "7_7": {
+        "material": "rock"
+    },
+    "7_6": {
+        "material": "rock"
+    },
+    "7_5": {
+        "material": "rock"
+    },
+    "7_4": {
+        "material": "rock"
+    },
+    "7_3": {
+        "material": "rock"
+    },
+    "7_2": {
+        "material": "rock"
+    },
+    "7_1": {
+        "material": "rock"
+    },
+    "7_0": {
+        "material": "rock"
+    },
+    "8_19": {
+        "material": "air"
+    },
+    "8_18": {
+        "material": "grass"
+    },
+    "8_17": {
+        "material": "dirt"
+    },
+    "8_16": {
+        "material": "dirt"
+    },
+    "8_15": {
+        "material": "rock"
+    },
+    "8_14": {
+        "material": "rock"
+    },
+    "8_13": {
+        "material": "rock"
+    },
+    "8_12": {
+        "material": "rock"
+    },
+    "8_11": {
+        "material": "rock"
+    },
+    "8_10": {
+        "material": "rock"
+    },
+    "8_9": {
+        "material": "rock"
+    },
+    "8_8": {
+        "material": "rock"
+    },
+    "8_7": {
+        "material": "rock"
+    },
+    "8_6": {
+        "material": "rock"
+    },
+    "8_5": {
+        "material": "rock"
+    },
+    "8_4": {
+        "material": "rock"
+    },
+    "8_3": {
+        "material": "rock"
+    },
+    "8_2": {
+        "material": "rock"
+    },
+    "8_1": {
+        "material": "rock"
+    },
+    "8_0": {
+        "material": "rock"
+    },
+    "9_19": {
+        "material": "air"
+    },
+    "9_18": {
+        "material": "grass"
+    },
+    "9_17": {
+        "material": "dirt"
+    },
+    "9_16": {
+        "material": "dirt"
+    },
+    "9_15": {
+        "material": "dirt"
+    },
+    "9_14": {
+        "material": "rock"
+    },
+    "9_13": {
+        "material": "rock"
+    },
+    "9_12": {
+        "material": "rock"
+    },
+    "9_11": {
+        "material": "rock"
+    },
+    "9_10": {
+        "material": "rock"
+    },
+    "9_9": {
+        "material": "rock"
+    },
+    "9_8": {
+        "material": "rock"
+    },
+    "9_7": {
+        "material": "rock"
+    },
+    "9_6": {
+        "material": "rock"
+    },
+    "9_5": {
+        "material": "rock"
+    },
+    "9_4": {
+        "material": "rock"
+    },
+    "9_3": {
+        "material": "rock"
+    },
+    "9_2": {
+        "material": "rock"
+    },
+    "9_1": {
+        "material": "rock"
+    },
+    "9_0": {
+        "material": "rock"
+    },
+    "10_19": {
+        "material": "air"
+    },
+    "10_18": {
+        "material": "grass"
+    },
+    "10_17": {
+        "material": "dirt"
+    },
+    "10_16": {
+        "material": "rock"
+    },
+    "10_15": {
+        "material": "rock"
+    },
+    "10_14": {
+        "material": "rock"
+    },
+    "10_13": {
+        "material": "rock"
+    },
+    "10_12": {
+        "material": "rock"
+    },
+    "10_11": {
+        "material": "rock"
+    },
+    "10_10": {
+        "material": "rock"
+    },
+    "10_9": {
+        "material": "rock"
+    },
+    "10_8": {
+        "material": "rock"
+    },
+    "10_7": {
+        "material": "rock"
+    },
+    "10_6": {
+        "material": "rock"
+    },
+    "10_5": {
+        "material": "rock"
+    },
+    "10_4": {
+        "material": "rock"
+    },
+    "10_3": {
+        "material": "rock"
+    },
+    "10_2": {
+        "material": "rock"
+    },
+    "10_1": {
+        "material": "rock"
+    },
+    "10_0": {
+        "material": "rock"
+    },
+    "11_19": {
+        "material": "air"
+    },
+    "11_18": {
+        "material": "air"
+    },
+    "11_17": {
+        "material": "grass"
+    },
+    "11_16": {
+        "material": "dirt"
+    },
+    "11_15": {
+        "material": "dirt"
+    },
+    "11_14": {
+        "material": "rock"
+    },
+    "11_13": {
+        "material": "rock"
+    },
+    "11_12": {
+        "material": "rock"
+    },
+    "11_11": {
+        "material": "rock"
+    },
+    "11_10": {
+        "material": "rock"
+    },
+    "11_9": {
+        "material": "rock"
+    },
+    "11_8": {
+        "material": "rock"
+    },
+    "11_7": {
+        "material": "rock"
+    },
+    "11_6": {
+        "material": "rock"
+    },
+    "11_5": {
+        "material": "rock"
+    },
+    "11_4": {
+        "material": "rock"
+    },
+    "11_3": {
+        "material": "rock"
+    },
+    "11_2": {
+        "material": "rock"
+    },
+    "11_1": {
+        "material": "rock"
+    },
+    "11_0": {
+        "material": "rock"
+    },
+    "12_19": {
+        "material": "air"
+    },
+    "12_18": {
+        "material": "grass"
+    },
+    "12_17": {
+        "material": "dirt"
+    },
+    "12_16": {
+        "material": "rock"
+    },
+    "12_15": {
+        "material": "rock"
+    },
+    "12_14": {
+        "material": "rock"
+    },
+    "12_13": {
+        "material": "rock"
+    },
+    "12_12": {
+        "material": "rock"
+    },
+    "12_11": {
+        "material": "rock"
+    },
+    "12_10": {
+        "material": "rock"
+    },
+    "12_9": {
+        "material": "rock"
+    },
+    "12_8": {
+        "material": "rock"
+    },
+    "12_7": {
+        "material": "rock"
+    },
+    "12_6": {
+        "material": "rock"
+    },
+    "12_5": {
+        "material": "rock"
+    },
+    "12_4": {
+        "material": "rock"
+    },
+    "12_3": {
+        "material": "rock"
+    },
+    "12_2": {
+        "material": "rock"
+    },
+    "12_1": {
+        "material": "rock"
+    },
+    "12_0": {
+        "material": "rock"
+    },
+    "13_19": {
+        "material": "air"
+    },
+    "13_18": {
+        "material": "grass"
+    },
+    "13_17": {
+        "material": "dirt"
+    },
+    "13_16": {
+        "material": "rock"
+    },
+    "13_15": {
+        "material": "rock"
+    },
+    "13_14": {
+        "material": "rock"
+    },
+    "13_13": {
+        "material": "rock"
+    },
+    "13_12": {
+        "material": "rock"
+    },
+    "13_11": {
+        "material": "rock"
+    },
+    "13_10": {
+        "material": "rock"
+    },
+    "13_9": {
+        "material": "rock"
+    },
+    "13_8": {
+        "material": "rock"
+    },
+    "13_7": {
+        "material": "rock"
+    },
+    "13_6": {
+        "material": "rock"
+    },
+    "13_5": {
+        "material": "rock"
+    },
+    "13_4": {
+        "material": "rock"
+    },
+    "13_3": {
+        "material": "rock"
+    },
+    "13_2": {
+        "material": "rock"
+    },
+    "13_1": {
+        "material": "rock"
+    },
+    "13_0": {
+        "material": "rock"
+    },
+    "14_19": {
+        "material": "air"
+    },
+    "14_18": {
+        "material": "grass"
+    },
+    "14_17": {
+        "material": "dirt"
+    },
+    "14_16": {
+        "material": "dirt"
+    },
+    "14_15": {
+        "material": "rock"
+    },
+    "14_14": {
+        "material": "rock"
+    },
+    "14_13": {
+        "material": "rock"
+    },
+    "14_12": {
+        "material": "rock"
+    },
+    "14_11": {
+        "material": "rock"
+    },
+    "14_10": {
+        "material": "rock"
+    },
+    "14_9": {
+        "material": "rock"
+    },
+    "14_8": {
+        "material": "rock"
+    },
+    "14_7": {
+        "material": "rock"
+    },
+    "14_6": {
+        "material": "rock"
+    },
+    "14_5": {
+        "material": "rock"
+    },
+    "14_4": {
+        "material": "rock"
+    },
+    "14_3": {
+        "material": "rock"
+    },
+    "14_2": {
+        "material": "rock"
+    },
+    "14_1": {
+        "material": "rock"
+    },
+    "14_0": {
+        "material": "rock"
+    },
+    "15_19": {
+        "material": "air"
+    },
+    "15_18": {
+        "material": "grass"
+    },
+    "15_17": {
+        "material": "dirt"
+    },
+    "15_16": {
+        "material": "rock"
+    },
+    "15_15": {
+        "material": "rock"
+    },
+    "15_14": {
+        "material": "rock"
+    },
+    "15_13": {
+        "material": "rock"
+    },
+    "15_12": {
+        "material": "rock"
+    },
+    "15_11": {
+        "material": "rock"
+    },
+    "15_10": {
+        "material": "rock"
+    },
+    "15_9": {
+        "material": "rock"
+    },
+    "15_8": {
+        "material": "rock"
+    },
+    "15_7": {
+        "material": "rock"
+    },
+    "15_6": {
+        "material": "rock"
+    },
+    "15_5": {
+        "material": "rock"
+    },
+    "15_4": {
+        "material": "rock"
+    },
+    "15_3": {
+        "material": "rock"
+    },
+    "15_2": {
+        "material": "rock"
+    },
+    "15_1": {
+        "material": "rock"
+    },
+    "15_0": {
+        "material": "rock"
+    },
+    "16_19": {
+        "material": "air"
+    },
+    "16_18": {
+        "material": "air"
+    },
+    "16_17": {
+        "material": "grass"
+    },
+    "16_16": {
+        "material": "dirt"
+    },
+    "16_15": {
+        "material": "dirt"
+    },
+    "16_14": {
+        "material": "rock"
+    },
+    "16_13": {
+        "material": "rock"
+    },
+    "16_12": {
+        "material": "rock"
+    },
+    "16_11": {
+        "material": "rock"
+    },
+    "16_10": {
+        "material": "rock"
+    },
+    "16_9": {
+        "material": "rock"
+    },
+    "16_8": {
+        "material": "rock"
+    },
+    "16_7": {
+        "material": "rock"
+    },
+    "16_6": {
+        "material": "rock"
+    },
+    "16_5": {
+        "material": "rock"
+    },
+    "16_4": {
+        "material": "rock"
+    },
+    "16_3": {
+        "material": "rock"
+    },
+    "16_2": {
+        "material": "rock"
+    },
+    "16_1": {
+        "material": "rock"
+    },
+    "16_0": {
+        "material": "rock"
+    },
+    "17_19": {
+        "material": "air"
+    },
+    "17_18": {
+        "material": "grass"
+    },
+    "17_17": {
+        "material": "dirt"
+    },
+    "17_16": {
+        "material": "dirt"
+    },
+    "17_15": {
+        "material": "dirt"
+    },
+    "17_14": {
+        "material": "dirt"
+    },
+    "17_13": {
+        "material": "dirt"
+    },
+    "17_12": {
+        "material": "rock"
+    },
+    "17_11": {
+        "material": "rock"
+    },
+    "17_10": {
+        "material": "rock"
+    },
+    "17_9": {
+        "material": "rock"
+    },
+    "17_8": {
+        "material": "rock"
+    },
+    "17_7": {
+        "material": "rock"
+    },
+    "17_6": {
+        "material": "rock"
+    },
+    "17_5": {
+        "material": "rock"
+    },
+    "17_4": {
+        "material": "rock"
+    },
+    "17_3": {
+        "material": "rock"
+    },
+    "17_2": {
+        "material": "rock"
+    },
+    "17_1": {
+        "material": "rock"
+    },
+    "17_0": {
+        "material": "rock"
+    },
+    "18_19": {
+        "material": "air"
+    },
+    "18_18": {
+        "material": "grass"
+    },
+    "18_17": {
+        "material": "dirt"
+    },
+    "18_16": {
+        "material": "dirt"
+    },
+    "18_15": {
+        "material": "rock"
+    },
+    "18_14": {
+        "material": "rock"
+    },
+    "18_13": {
+        "material": "rock"
+    },
+    "18_12": {
+        "material": "rock"
+    },
+    "18_11": {
+        "material": "rock"
+    },
+    "18_10": {
+        "material": "rock"
+    },
+    "18_9": {
+        "material": "rock"
+    },
+    "18_8": {
+        "material": "rock"
+    },
+    "18_7": {
+        "material": "rock"
+    },
+    "18_6": {
+        "material": "rock"
+    },
+    "18_5": {
+        "material": "rock"
+    },
+    "18_4": {
+        "material": "rock"
+    },
+    "18_3": {
+        "material": "rock"
+    },
+    "18_2": {
+        "material": "rock"
+    },
+    "18_1": {
+        "material": "rock"
+    },
+    "18_0": {
+        "material": "rock"
+    },
+    "19_19": {
+        "material": "air"
+    },
+    "19_18": {
+        "material": "grass"
+    },
+    "19_17": {
+        "material": "dirt"
+    },
+    "19_16": {
+        "material": "dirt"
+    },
+    "19_15": {
+        "material": "rock"
+    },
+    "19_14": {
+        "material": "rock"
+    },
+    "19_13": {
+        "material": "rock"
+    },
+    "19_12": {
+        "material": "rock"
+    },
+    "19_11": {
+        "material": "rock"
+    },
+    "19_10": {
+        "material": "rock"
+    },
+    "19_9": {
+        "material": "rock"
+    },
+    "19_8": {
+        "material": "rock"
+    },
+    "19_7": {
+        "material": "rock"
+    },
+    "19_6": {
+        "material": "rock"
+    },
+    "19_5": {
+        "material": "rock"
+    },
+    "19_4": {
+        "material": "rock"
+    },
+    "19_3": {
+        "material": "rock"
+    },
+    "19_2": {
+        "material": "rock"
+    },
+    "19_1": {
+        "material": "rock"
+    },
+    "19_0": {
+        "material": "rock"
+    }
+}
