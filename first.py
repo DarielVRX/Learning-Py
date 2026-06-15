@@ -1,65 +1,96 @@
 import json
 import random
 
-x = 0
-y = 0
-
-size = 20
-surface = [13, 14, 15, 16]
-world = '0003'
 AIR = 'air'
 GRASS = 'grass'
 DIRT = 'dirt'
 ROCK = 'rock'
-material = [GRASS, DIRT, ROCK, AIR]
+GOLD = 'gold'
+material = [GRASS, DIRT, ROCK, AIR, GOLD]
 block = {}
+neighborhood = []	
+
+world = '0003'
 random.seed(f"{world}")
 
-for i in range(size):
-    x = i
-    for j in range (size - 1, -1, -1):
-        y = j
-        pos = [x, y]
-        p_id = f"{x}_{y}"
+size = 25
+chunks = 10
+sur_min = 13
+sur_max = 16
+surface = []
+x = 0
+y = 0
 
-        if y == size - 1:
-            _material = AIR
+for i in range(sur_min, sur_max + 1):
+	surface.append(i)
 
-        elif size - 1 > y > max(surface):
-            if block[f"{x}_{y+1}"]["material"] == AIR:
-                _material = random.choices(material, weights=[70, 4, 1, 25])[0]
-            elif block[f"{x}_{y+1}"]["material"] in (GRASS, DIRT):
-                _material = DIRT
-            else:
-                _material = ROCK
-
-        elif y in surface:
-            if block[f"{x}_{y+1}"]["material"] == AIR:
-                _material = random.choices(material, weights=[60, 25, 15, 0])[0]
-            elif block[f"{x}_{y+1}"]["material"] in (GRASS, DIRT):
-                _material = random.choices(material, weights=[0, 60, 40, 0])[0]
-            else:
-                _material = ROCK
-
-        else:
-            _material = ROCK
-
-        block[f"{p_id}"] = {
-            "material": _material
-        }
-
+def gen_chunk():
+	global x
+	for x in range(x + size):
+	    for y in range (size - 1, -1, -1):
+	        pos = [x, y]
+	        p_id = f"{x}_{y}"
+	
+	        if y == size - 1:
+	            _material = AIR
+	
+	        elif size - 1 > y > max(surface):
+	            if block[f"{x}_{y+1}"]["material"] == AIR:
+	                _material = random.choices(material, weights=[70, 4, 1, 25, 0])[0]
+	            elif block[f"{x}_{y+1}"]["material"] in (GRASS, DIRT):
+	                _material = DIRT
+	            else:
+	                _material = ROCK
+	
+	        elif y in surface:
+	            if block[f"{x}_{y+1}"]["material"] == AIR:
+	                _material = random.choices(material, weights=[60, 25, 15, 0, 0])[0]
+	            elif block[f"{x}_{y+1}"]["material"] in (GRASS, DIRT):
+	                _material = random.choices(material, weights=[0, 60, 40, 0, 0])[0]
+	            else:
+	                _material = ROCK
+	
+	        else:
+	            if GOLD in neighborhood:
+	            	_material = random.choices(material, weights=[0, 0, 80, 0, 20])[0]
+	            else:
+	            	_material = random.choices(material, weights=[0, 0, 90, 0, 10])[0]
+	            		
+	        block[f"{p_id}"] = {
+	            "material": _material
+	        }
+	        
+	        neighborhood = []
+	        
+	        for i in range(-1, 2):
+	         	for j in range(0, 2):
+	         		#print("y = ", y)
+	         		#print(y+j)
+	         		if (x + i) >= 0 and (x + i) <= size and (y + j) > y + 1:
+	         			#print({x + i}, {y + 1})
+	         			if (y + j) <= size - 1:
+	         				neighborhood.append(block[f"{x + i}_{y + j}"]["material"])
+	         		elif (x + i) >= 0 and (x + i) <= x:
+	         			if (y + j) >= 0 and (y + j) <= size - 1:
+	         				neighborhood.append(block[f"{x + i}_{y + j}"]["material"])
+	        
+for i in range(chunks):
+		gen_chunk()
+		
+	
 tiles = {
-    "air": "   ",
-    "grass": " | ",
-    "dirt": " x ",
-    "rock": " o "
+    "air": " ",
+    "grass": "=",
+    "dirt": "x",
+    "rock": "#",
+    "gold": "0"
     }
 
-for y in range(size - 1, -1, -1):
-    for x in range(size):
-        print(tiles[block[f"{x}_{y}"]["material"]], end="")
-    print()
+for x in range((size - 1) * chunks):
+    for y in range(size - 1, -1, -1):
+    		print(tiles[block[f"{x}_{y}"]["material"]], end="")
 
+    print()
 
 with open("draft.json", "w") as f:
     json.dump(block, f, indent=4)
