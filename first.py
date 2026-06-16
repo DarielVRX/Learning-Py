@@ -33,7 +33,8 @@ for i in range(sur_min, sur_max + 1):
 
 def gen_chunk():
     global x
-    for x in range(x + size):
+    print(x, x + size)
+    for x in range(x, x + size):
         for y in range (size - 1, -1, -1):
             pos = [x, y]
             p_id = f"{x}_{y}"
@@ -77,8 +78,10 @@ def gen_chunk():
                         elif (x + i) >= 0 and (y + j) >= y and (x + i) <= x:
                             neighborhood.append(block[f"{x + i}_{y + j}"]["material"])
 
+    x = x + 1
+
 for i in range(chunks):
-        gen_chunk()
+    gen_chunk()
 
 for x in range((size - 1) * chunks):
     for y in range(size):
